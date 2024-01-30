@@ -1,0 +1,27 @@
+{
+  "name": "DLCamera",
+  "version": "0.1.0",
+  "summary": "A short description of DLCamera.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liweiqiong/DLCamera",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liweiqiong": "lee_weiqiong@163.com"
+  },
+  "source": {
+    "git": "https://github.com/liweiqiong/DLCamera.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DLCamera/Classes/**/*",
+  "resource_bundles": {
+    "DLCamera": [
+      "DLCamera/Assets/*.png"
+    ]
+  }
+}

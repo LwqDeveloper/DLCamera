@@ -1,0 +1,16 @@
+PODS:
+  - DLCamera (0.1.0)
+
+DEPENDENCIES:
+  - DLCamera (from `../`)
+
+EXTERNAL SOURCES:
+  DLCamera:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DLCamera: 69ab0881c4c8a8bd472bebf69bfd1524b45cf5fa
+
+PODFILE CHECKSUM: e1e545fef5dfa94227ba2a531c8e133f2f2f7c98
+
+COCOAPODS: 1.14.3
