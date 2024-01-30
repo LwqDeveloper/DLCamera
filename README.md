@@ -1,15 +1,10 @@
 # DLCamera
-
-[![CI Status](https://img.shields.io/travis/liweiqiong/DLCamera.svg?style=flat)](https://travis-ci.org/liweiqiong/DLCamera)
-[![Version](https://img.shields.io/cocoapods/v/DLCamera.svg?style=flat)](https://cocoapods.org/pods/DLCamera)
-[![License](https://img.shields.io/cocoapods/l/DLCamera.svg?style=flat)](https://cocoapods.org/pods/DLCamera)
-[![Platform](https://img.shields.io/cocoapods/p/DLCamera.svg?style=flat)](https://cocoapods.org/pods/DLCamera)
-
+iOS自定义相机，使用系统AVCaptureSession
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+最低要求iOS11版本
 
 ## Installation
 
